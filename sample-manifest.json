@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e341ed60-c473-4ddf-b993-11325beba26d",
+  "export_job_id": "43be7307-b375-47b2-b1d5-42c05519de5a",
   "id_short": 153749,
-  "published_at": "2026-04-11T19:02:51Z",
+  "published_at": "2026-04-19T07:19:09Z",
   "repo_name": "restaurant-social-ghosts-in-new-york-us-sample-153749",
   "sample_asset_name": "beamstation_153749_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/153749/beamstation_153749_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 86,
-  "sample_sha256": "66e9063e53170efc22bf6dd2dc9148523aaa6e338a2341ed488612f1dfd29f35",
-  "sample_size_bytes": 320032,
-  "total_records": 864
+  "sample_records": 79,
+  "sample_sha256": "4be8f6d9705f85242c1e96d3ef2941ebf87068551306552c05a20e76ab051689",
+  "sample_size_bytes": 293480,
+  "total_records": 790
 }
