@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in New York, US
 
-> Free BeamStation sample export with 86 rows and masked direct-contact fields.
+> Free BeamStation sample export with 79 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `153749` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 864 records |
-| Free sample size | 86 records (9.95%) |
-| Last export | 2026-04-08T07:57:56.800483+00:00 |
+| Full dataset size | 790 records |
+| Free sample size | 79 records (10.0%) |
+| Last export | 2026-04-15T11:09:43.650458+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-new-york-us-sample-153749/releases/download/sample-latest/beamstation_153749_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
